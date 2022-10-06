@@ -1,0 +1,35 @@
+{
+  "name": "Resume Builder",
+  "short_name": "Resume Builder",
+  "version": "1.0.0",
+  "description": "Build your resume ",
+  "start_url": ".",
+  "icons": [
+    {
+       "src": "assets/logo512x512.png",
+       "type": "image/png",
+       "sizes": "512x512"
+    },
+    {
+       "src": "assets/1024x1024.png",
+       "type": "image/png",
+       "sizes": "1024x1024"
+    }
+ ],
+ "screenshots": [
+  {
+     "src": "assets/screenshot1.png",
+     "type": "image/png"
+  },
+  {
+     "src": "assets/screenshot2.png",
+     "type": "image/png"
+  }
+],
+ "display": "standalone",
+ "theme-color": "#64FFDA",
+ "background_color": "#E0F2F1",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
