@@ -32,7 +32,6 @@ form {
   background: white;
   border-radius: 8px;
   width: 100%;
-  max-width: 600px;
   color: rgba(0, 0, 0, 0.9);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02), 0 1px 2px rgba(0, 0, 0, 0.14);
 }
@@ -194,16 +193,6 @@ input[type=submit]:active {
 
 .error {
   color: red;
-}
-
-@media screen and (max-width: 560px) {
-  form{
-    max-width: 100%;
-  }
-
-  .form-date-group{
-    padding: 24px 10px;
-  }
 }
 
 @media screen and (max-width: 445px) {
