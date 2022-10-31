@@ -34,6 +34,13 @@ form {
   width: 100%;
   color: rgba(0, 0, 0, 0.9);
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.02), 0 1px 2px rgba(0, 0, 0, 0.14);
+  position:relative;
+}
+
+iframe{
+  position: absolute;
+  top:0;
+  right: 0;
 }
 
 .form__header {
